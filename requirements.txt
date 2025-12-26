@@ -1,0 +1,15 @@
+transformers
+torch
+gradio
+soundfile
+pydub
+numpy
+scipy
+librosa
+# Offline AI Dependencies
+accelerate
+sentencepiece
+datasets<3.0.0
+static-ffmpeg
+speechbrain
+# OpenAI is removed
